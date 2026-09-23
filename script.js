@@ -27,7 +27,7 @@ if (ctaButton) {
     const incomingParams = new URLSearchParams(window.location.search);
 
     const trackingUrl = new URL(
-      "https://thedinator.com/tracker/spots/redirect/p1w4C2o1",
+      "https://thedinator.com/tracker/spots/redirect/rskV4I5U",
     );
 
     const trackingParams = [
